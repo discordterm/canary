@@ -1,5 +1,5 @@
-# TermCord Canary
-:shushing_face: A secret version of TermCord that gets updates faster...
+# DisTerm Canary
+:shushing_face: A secret version of DisTerm that gets updates faster...
 
 ## Install
 - Go [here](https://github.com/disterm/canary/releases/latest) and install the TermCord-Canary.zip file
